@@ -1,0 +1,20 @@
+/* ----------------- */
+/* Custom properties */
+/* ----------------- */
+:root {
+    --clr-dark: 215 28% 17%;
+    --clr-light: 220 13% 91%;
+    --clr-white: 90 17% 98%%;
+    --clr-accent: 217 91% 59%;
+
+    --fs-700: 3rem;
+    --fs-600: 2.25rem;
+    --fs-500: 1.5rem;
+    --fs-400: 1.125rem;
+
+    --ff-roboto: 'Roboto', sans-serif;
+
+    --fw-extra-bold: 900;
+    --fw-normal: 400;
+    --fw-light: 300;
+}
